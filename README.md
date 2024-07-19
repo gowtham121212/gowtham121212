@@ -62,12 +62,6 @@
 - Ansible
 - Bash
 
-## 📊 GitHub Stats
-
-Here are some statistics about my GitHub activity:
-
-![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham121212&show_icons=true&theme=radical)
-
 
 ## Contact
 
