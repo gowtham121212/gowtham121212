@@ -1,40 +1,82 @@
-Log Analysis and Monitoring Script
+# Gowtham 👨‍💻
 
-Overview
+🎓 I'm a student at Sri Eshwar College of Engineering pursuing a degree in Electronics and Communications Engineering. I'm passionate about AWS Cloud and DevOps and have extensive knowledge in DevOps tools.
 
-This script provides log analysis and monitoring functionalities for a specified log file. It continuously monitors the log file for new entries and performs basic analysis on the log entries to count occurrences of specific keywords.
+## 🚀 Skills
 
-Usage
+- 👨‍💻 Cloud & Devops
+- 🐞 Debugging
+- 🎨 Design
+- 📝 Technical writing
+- 📈 Project management
+- 🤝 Teamwork
+- 🤔 Critical thinking
+- 👑 Leadership
+- 🗂️ Organization
+- 💬 Communications
 
-Clone the Repository:
-bash
-Copy code
-git clone <repository_link>
-Navigate to the Directory:
-bash
-Copy code
-cd log-monitor-script
-Run the Script:
-php
-Copy code
-python log_monitor.py <log_file_path>
-Replace <log_file_path> with the path to the log file you want to monitor.
-Dependencies
+## 🎓 Education
 
-This script requires Python 3.x to be installed on your system.
+**Sri Eshwar College of Engineering, Coimbatore**
 
-Additional Notes
+- Bachelor of Engineering in Electronics and Communications Engineering (2021-2025)
 
-The script logs its activities to a file named log_monitor.log in the same directory.
-To stop the monitoring loop, press Ctrl+C.
-Make sure you have the necessary permissions to read the specified log file.
-Feedback and Contributions
+**Jaycee high school , Coimbatore District**
 
-Feedback and contributions are welcome! If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
+- HIGH SCHOOL
+
+## 🚀 Projects
+
+### Ultimate CI/CD Pipeline 🛠️🚀
+
+- 🛠️ Jenkins
+- 🔄 Continuous Integration/Continuous Deployment
+
+### Three-Tier Architecture Provisioning 🌐🏗️
+
+- 🏗️ Terraform
+- 🌐 AWS
+
+### Cloud Cost Optimization 💡💰
+
+- 💡 Strategies
+- 📉 Cost-saving techniques
+
+## 🌐 Socials
+
+[LinkedIn](https://www.linkedin.com/in/gowtham-senthilkumar-1792b7242/) 
+
+## 💻 Tech Stack
+
+- Networking
+- Linux
+- Java
+- Python
+- Jenkins
+- Azure
+- AWS
+- Oracle
+- K8s
+- Terraform
+- Docker
+- Ansible
+- Bash
+
+## 📊 GitHub Stats
+
+Here are some statistics about my GitHub activity:
+
+![Gowtham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gowtham121212&show_icons=true&theme=radical)
 
 
+## Contact
 
-<!---
-gowtham121212/gowtham121212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Email:** gowthamdz24@gmail.com
+- **Phone:** +91 8825777548
+- **City:** Coimbatore
+- **Birthday:** dec 12
+
+💖Thanks for checking out my GitHub Stats section! If you have any questions or feedback, feel free to reach out to me.
+
+💖Once again, thank you for taking the time to read my profile. Feel free to contact me if you want to know more about me or if you have any opportunities that may suit my skills and interests.
+
